@@ -1,0 +1,31 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+        {"id": "0001", "imgUrl": "./static/img/temp1.jpg"},
+        {"id": "0002","imgUrl": "./static/img/temp2.jpg"},
+        {"id": "0003","imgUrl": "./static/img/temp2.jpg"},
+        {"id": "0004","imgUrl": "./static/img/temp2.jpg"}
+      ],
+    "iconList": [
+      {"id": "11","iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", "name": "课程体系热销课程"
+      },
+      {"id": "22","iconUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png", "name": "优秀老师"},
+      {"id": "33","iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png", "name": "直播课"},
+      {"id": "44","iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png", "name": "收藏"},
+      {"id": "11","iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png", "name": "课程体系"},
+      {"id": "22","iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png", "name": "优秀老师"},
+      {"id": "33","iconUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png", "name": "直播课"},
+      {"id": "44","iconUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png", "name": "全部"},
+      {"id": "44","iconUrl": "./static/img/icon-1.png", "name": "收藏"},
+      {"id": "44","iconUrl": "./static/img/icon-2.png", "name": "收藏"}
+    ],
+    "guessYouList": [
+      {"id":"001", "couresName":"二年级快乐思维卓识笃行1班", "imgUrl":"https://gs-static.oss-cn-beijing.aliyuncs.com/ow/img/subject/ico1.png", "teacherName":"李艳星", "commentNum": "1222", "price": "2339.9"},
+      {"id":"002", "couresName":"三年级快乐思维卓识笃行1班", "imgUrl":"https://gs-static.oss-cn-beijing.aliyuncs.com/ow/img/subject/ico3.png", "teacherName":"李艳星", "commentNum": "1222", "price": "4559.9"},
+      {"id":"003", "couresName":"四年级快乐思维卓识笃行1班", "imgUrl":"https://gs-static.oss-cn-beijing.aliyuncs.com/ow/img/subject/ico4.png", "teacherName":"李艳星", "commentNum": "1222", "price": "2229.9"},
+      {"id":"004", "couresName":"五年级快乐思维卓识笃行1班", "imgUrl":"https://gs-static.oss-cn-beijing.aliyuncs.com/ow/img/subject/ico1.png", "teacherName":"李艳星", "commentNum": "1222", "price": "2339.9"},
+      {"id":"005", "couresName":"六年级快乐思维卓识笃行1班", "imgUrl":"https://gs-static.oss-cn-beijing.aliyuncs.com/ow/img/subject/ico3.png", "teacherName":"李艳星", "commentNum": "1222", "price": "2449.9"}
+    ]
+  }
+}
